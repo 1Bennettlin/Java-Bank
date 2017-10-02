@@ -1,4 +1,4 @@
-//Bennett Lin    CIS304   MA     FINAL PROJECT
+//Bennett Lin  
 
 import javax.swing.JOptionPane;
 
