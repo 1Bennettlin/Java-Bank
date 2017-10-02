@@ -1,4 +1,4 @@
-//Bennett Lin    CIS304   MA     FINAL PROJECT
+
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
