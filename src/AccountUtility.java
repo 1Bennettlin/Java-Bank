@@ -1,4 +1,4 @@
-//Bennett Lin    CIS304   MA     FINAL PROJECT
+
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
